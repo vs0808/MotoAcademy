@@ -96,7 +96,7 @@ const pessoas = [
 ]
 
 
-
+//map, filter, join, concat, flat - metódos de criação de array[]
 
 //for(let contador=0;contador<pessoas.length;contador++){
     //if(pessoas[contador].idade>22){
@@ -123,3 +123,10 @@ for(let contador=0;contador<pessoas.length;contador++){
         console.log(pessoas[contador]);
     }
 }
+
+var array_1 = ["A", "B", "C", "D"]
+//console.log(array_1.slice(1,3));
+//console.log(array_1.forEach(A));
+console.log(array_1.push("E"));
+
+
