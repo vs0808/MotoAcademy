@@ -23,7 +23,7 @@ var array_1 = ["A", "B", "C", "D"]
 
 //------------------------------------------------//
 
-const result = array_1.find(({ A }) => A === 4);//maior ou igual
+const result = array_1.find(({ A }) => A === );//maior ou igual
 console.log(result);
 
 console.log(array_1.indexOf("C"));//1
