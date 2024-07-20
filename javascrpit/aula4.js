@@ -8,9 +8,12 @@
 //const helloworld = nomeFuncao();
 //console.log(helloworld);
 
-const imprimirNomeCompleto = (nome, sobrenome) =>{
-    nomeCompleto = nome+" "+sobrenome
-    return nomeCompleto
-}
+//const imprimirNomeCompleto = (nome, sobrenome) =>{
+   // nomeCompleto = nome+" "+sobrenome
+   // return nomeCompleto
+//}
 
-console.log(imprimirNomeCompleto("Euclides", "Lins"));
+//console.log(imprimirNomeCompleto("Euclides", "Lins"));
+
+//---------------------------------------------------//
+
