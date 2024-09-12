@@ -1,2 +1,11 @@
 <p class="primeiro">{{name}}</p>
 <button (click)="alerta()">BUTÃO</button>
+
+
+<hr>
+<button 
+    type="button" 
+    [disabled]="isDisabled" 
+    (click)="alerta()" *ngIf = "isActive"> 
+        trigger Message
+</button>
